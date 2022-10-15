@@ -28,17 +28,17 @@
                 <button id="dev"> C++</button>
                 <button id="dev"> Java</button>
                 <button id="dev"> Python</button>
-                <button id="dev"> HTML</button>
-                <button id="dev"> CSS</button>
+                <button id="dev"> HTML And CSS</button>
                 <button id="dev"> JavaScript</button>
                 <button id="dev"> PhP</button>
+                <button id="dev"> SQL</button>
                 <button id="dev"> DBMS</button>
             </div>
             <h3 id="h3-prim">Design :- </h3>
             <div class="desig">
                 <button id="design">Photoshop</button>
                 <button id="design">Canvaa</button>
-                <button id="design">Premier Pro</button>
+                <!-- <button id="design">Premier Pro</button> -->
             </div>
         </div>
         <!-- <img src="images/HackerSkill.jpeg" alt=""> -->
