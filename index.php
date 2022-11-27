@@ -27,7 +27,7 @@
             <h1>I'M Nikhil <span>Naikwade</span></h1>
             <p>This is my official Portfolio website to showcase my
                 all works related to <br> Coding And Web Development. </p>
-            <a href="Nikhil Naikwade CV.pdf" target="_blank" id="cv">Download CV</a>
+            <a href="Nikhil Naikwade Resume.pdf" target="_blank" id="cv">Download CV</a>
         </div>
         <div class="images">
             <img src="images/shape.png" class="shape">

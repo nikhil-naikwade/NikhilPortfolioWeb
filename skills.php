@@ -26,13 +26,14 @@
             <div class="prog">
                 <button id="dev"> C</button>
                 <button id="dev"> C++</button>
+                <button id="dev"> SQL</button>
                 <button id="dev"> Java</button>
                 <button id="dev"> Python</button>
                 <button id="dev"> HTML And CSS</button>
                 <button id="dev"> JavaScript</button>
                 <button id="dev"> PhP</button>
-                <button id="dev"> SQL</button>
-                <button id="dev"> DBMS</button>
+                <button id="dev"> Linux</button>
+                <button id="dev"> RDBMS</button>
             </div>
             <h3 id="h3-prim">Design :- </h3>
             <div class="desig">

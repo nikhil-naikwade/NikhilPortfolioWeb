@@ -19,10 +19,18 @@
         <!-- <div > -->
         <h1 id="h1-prim"> About Me </h1>
         <h3> Hey, Welcome to My Personal Potfolio Website<br> &nbsp;&nbsp; I'm Nikhil Shriram Naikwade, </h3>
-        <p id="own_details"> &nbsp;&nbsp;&nbsp;Currently Pursuing TY BBA-CA, from MIT ACS College, Alandi
+        <p id="own_details">Highly skilled BCA student, having strong knowledge of Programming Languages,
+passionate about coding and learning new trending technologies. <br><br> My name is Nikhil Naikwade and in my Academics career I am in the First class with distinction. I am
+pursuing my Bachelor Degree from MIT ACSC Pune. My skill set(s) is C, C++, Linux, Java, SQL, Python,
+HTML and CSS, JavaScript , PHP. I have hands on experience on mini project using HTML and CSS, PHP,
+SQL so I believe I can work as Frontend as well as Backend developer. Familiar with Unix and Windows
+operating systems and very well aware about Unix language and its importance in industry. I have
+completed many courses from Online learning platform like Udemy, SimpliLearn, GreatLearning so it
+helped me to gain my knowledge related to IT industry. <br><br>
+             <!-- <br> &nbsp;&nbsp;&nbsp;Currently Pursuing TY BBA-CA, from MIT ACS College, Alandi
             Pune.
             Self Learner.
-            Passionate about Coding, Web Developing and learning New Technologies. <br>
+            Passionate about Coding, Web Developing and learning New Technologies. <br> -->
             For More Details Scroll over this Website or visit Skills , Licenses & Certifications Section on <a
                 href="https://www.linkedin.com/in/nikhil-naikwade-175107227/"> LinkedIn </a>
             For any detail or enquiries, please feel free to <a href="contact.php">contact me</a>.
@@ -35,7 +43,7 @@
         <span class="educational">My Educational Journey</span>
         <div>
             <br>
-            <h2 style="font-size: 27px; text-align: center;">BBA-CA</h2>
+            <h2 style="font-size: 27px; text-align: center;">BCA / BBA-CA</h2>
             <!-- <h2 style="font-size: 27px; text-align: center;"> <i class="fa fa-star" style="font-size:27px"></i> BBA-CA
                 <i class="fa fa-star" style="font-size:27px;"></i></h2> -->
             <p style="text-align: center; font-size:14px;">(2020-2023)</p>
