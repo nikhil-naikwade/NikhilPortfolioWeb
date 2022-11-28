@@ -18,7 +18,7 @@
 <?php
     include("nav.php");
 ?>  
-    <section id="contact">
+<section class="contact" id="contact">
         <h1 id="h1-prim">Contact</h1>
         <div id="contact-box">
             <form action="contactus_form.php" method="post">
@@ -35,6 +35,6 @@
                 <button class="btn1">Submit Form</button>
             </form>
         </div>
-    </section>  
+</section>  
 </body>
 </html>

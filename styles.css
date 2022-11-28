@@ -165,6 +165,9 @@ span {
     /* margin-bottom: 50px; */
     background-color: #eff4fd;
 }
+#lgm{
+
+}
 
 .portfolio__container {
     justify-items: center;
@@ -262,6 +265,7 @@ span {
 }
 
 #own_details{
+    /* text-align: center; */
     font-size: 17px; 
     padding: 25px 15px;
 }
@@ -290,7 +294,7 @@ span {
     padding: 10px;
     margin: 0px 480px;
     display: block; 
-    text-align: center;
+    /* text-align: center; */
     font-size: 25px;
 }
 
@@ -443,10 +447,14 @@ span {
 
 
 #contact {
+  
     position: relative;
     height: 100%;
     background: url('images/img6.jpg') no-repeat center center/cover;
 }
+/* #cont{
+    padding-top:100px;
+} */
 
 #contact-box {
     display: flex;

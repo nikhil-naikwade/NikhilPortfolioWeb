@@ -84,7 +84,7 @@ helped me to gain my knowledge related to IT industry. <br><br>
                 <p>( Percentile - 92.60% )</p>
                 <p style="text-align: center; font-size:14px;">(2017-2018)</p>
             </div>
-            <span id="h2-prim">Gore English School Chousala - Beed.</span>
+            <span id="h2-prim">Gore English School Chousala, Beed.</span>
             <!-- </div> -->
     </section>
 

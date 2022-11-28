@@ -19,7 +19,11 @@
         <div class="portfolio__container bd-grid">
             <div id="internshipimg">
                 <img src="certificates/GRIPInternshipCertificate.png" alt="">
-                <img src="certificates/LGM.png" style="width: 41%;" alt="">
+                <!-- <div id="lgm">
+                 <img src="certificates/LGM.png" alt="">
+                </div> -->
+                <img src="certificates/LGM.png" alt="">
+                <!-- <img src="certificates/LGM.png" style="width: 41%;" alt=""> -->
             </div>
 
             <div class="portfolio__img">
