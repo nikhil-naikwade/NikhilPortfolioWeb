@@ -32,6 +32,11 @@ nav ul li {
     align-items: center;
     text-align: center; */
 }
+/* .cv{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} */
 
 .images {
     width: 50%;
@@ -46,11 +51,14 @@ nav ul li {
 .images img {
     /* height: 46%;
     left: 50%; */
-    bottom: 162px;
     /* height: 130%;
     left: 60%; */
-
-    height: 134%;
+    
+    height: 125%;
+    left: 45%;
+    
+    /* bottom: 162px;
+    height: 134%; */
     left: 59%;
     /* height: 102%;
     left: 50%; */
@@ -113,4 +121,9 @@ nav ul li {
     font-size: 13px;
     margin-top: 41px;
     margin-left: 82px;
+}
+
+footer {
+    padding: 9px 9px;
+    margin-top: 20px;
 }

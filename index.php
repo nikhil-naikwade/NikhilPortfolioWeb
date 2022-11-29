@@ -12,6 +12,9 @@
 
     <link rel="stylesheet" media="screen and (min-width: 448px) and (max-width: 868px)" href="phone.css">
     <link rel="stylesheet" media = "screen and (min-width: 320px) and (max-width: 447px)" href="smallphn.css">
+
+    <!-- <link rel="stylesheet" media="screen and (max-width: 1170px)" href="phone.css">
+    <link rel="stylesheet" media = "screen and (min-width: 320px) and (max-width: 786px)" href="smallphn.css"> -->
     <!-- <script type="text/JavaScript" src="script.js"></script> -->
     <link rel="stylesheet" href="contactus_form.php">
 
@@ -29,7 +32,7 @@
             <h1>I'M Nikhil <span>Naikwade</span></h1>
             <p>This is my official Portfolio website to showcase my
                 all works related to <br> Coding And Web Development. </p>
-            <a href="Nikhil Naikwade Resume.pdf" target="_blank" id="cv">Download CV</a>
+            <a href="Nikhil Naikwade Resume.pdf" target="_blank" class="cv">Download CV</a>
         </div>
         <div class="images">
             <img src="images/shape.png" class="shape">

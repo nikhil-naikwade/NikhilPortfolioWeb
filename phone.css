@@ -12,10 +12,6 @@ nav {
 }
 
 .navbar {
-    position: fixed;
-    z-index: 9;
-    transition: all 0.5s ease;
-    display: flex;
     width: 100%;
     padding: 8px 49px;
     align-items: center;
@@ -53,10 +49,15 @@ nav ul li {
 }
 
 .detail a {
-    margin-left: 165px;
+    /* margin-left: 165px;
     margin-top: 16px;
-    margin-bottom: 11px;
+    margin-bottom: 11px; */
     font-size: 12px;
+}
+.cv{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .detail h1{
@@ -83,8 +84,12 @@ nav ul li {
 }
 
 .images img {
-    height: 46%;
-    left: 50%;
+
+    height: 139%;
+    left: 44%;
+
+    /* height: 46%;
+    left: 50%; */
     bottom: 162px;
     transform: translateX(-50%);
     transition: bottom 1s, left 1s;
@@ -246,7 +251,7 @@ nav ul li {
 
 
 footer {
-    padding: 9px 9px;
+    /* padding: 9px 9px; */
     margin-top: 20px;
 }
 
