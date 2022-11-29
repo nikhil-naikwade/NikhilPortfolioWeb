@@ -128,13 +128,15 @@ nav ul li {
 }
 
 
-.portfolio {
+/* .portfolio {
     margin-bottom: 50px;
     background-color: #eff4fd;
-}
+} */
 
 .portfolio__container {
     justify-items: center;
+    align-items: center;
+    text-align: center;
     row-gap: 2rem;
 }
 
@@ -145,14 +147,14 @@ nav ul li {
 
 #internshipimg img {
     width: 74%;
-    padding-left: 50px;
+    /* padding-left: 50px; */
 }
 
 
 .portfolio__img {
     position: relative;
     overflow: hidden;
-    margin-left: 57px;
+    /* margin-left: 57px; */
     padding-bottom: 40px;
 }
 

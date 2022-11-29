@@ -187,7 +187,8 @@ span {
 .portfolio__img {
     position: relative;
     overflow: hidden;
-    margin-left: 57px;
+    text-align: center;
+    /* margin-left: 57px; */
     /* margin-top: 10px; */
     padding-bottom: 40px;
 }

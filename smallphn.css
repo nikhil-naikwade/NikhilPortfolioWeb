@@ -4,7 +4,7 @@
 } */
 
 .hero {
-    height: 100vh;
+    height: 94vh;
 }
 
 
@@ -29,7 +29,7 @@ nav ul li {
 }
 
 .detail a {
-    margin-left: 121px;
+    margin-left: 145px;
     margin-top: 16px;
     margin-bottom: 8px;
     font-size: 11px;
@@ -54,8 +54,13 @@ nav ul li {
 }
 
 .images img {
-    height: 130%;
-    left: 58%;
+
+    height: 136%;
+    left: 53%;
+    bottom: 164px;
+
+    /* height: 130%;
+    left: 58%; */
     
     /* height: 125%;
     left: 45%; */
@@ -90,12 +95,48 @@ nav ul li {
 }
 
 .desig{
-    padding-left: 9px;
+    padding-left: 35px;
 }
+
+.portfolio__container {
+    /* justify-items: center; */
+    /* align-items: center; */
+    text-align: center;
+    row-gap: 2rem;
+}
+#internshipimg {
+    padding-left: 0px;
+    margin-top: 15px;
+}
+
+#internshipimg img {
+    /* width: 74%;
+    padding-left: 50px; */
+
+    width: 83%;
+    /* padding-left: 34px; */
+}
+
+
+.portfolio__img {
+    position: relative;
+    overflow: hidden;
+    /* margin-left: 57px; */
+    padding-bottom: 40px;
+}
+
+.portfolio__img img {
+    width: 83%;
+    /* padding-left: 34px; */
+    padding-top: 15px;
+    /* display: inline-flex; */
+    border-radius: .2rem;
+}
+
 
 #contact {
     /* height: 150%; */
-    padding-bottom: 145px;
+    padding-bottom: 190px;
 }
 
 #contact-box {
@@ -130,3 +171,4 @@ footer {
     padding: 9px 9px;
     margin-top: 20px;
 }
+
