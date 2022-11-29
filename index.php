@@ -8,10 +8,12 @@
     <title>Nikhil Naikwade's Portfolio Website</title>
     <link rel="shortcut icon" type="emoji" href="images/logo1.png" />
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" media="screen and (max-width: 1170px)" href="phone.css">
+    <!-- <link rel="stylesheet" media="screen and (max-width: 320px)" href="phone.css"> -->
+
+    <link rel="stylesheet" media="screen and (min-width: 448px) and (max-width: 868px)" href="phone.css">
+    <link rel="stylesheet" media = "screen and (min-width: 320px) and (max-width: 447px)" href="smallphn.css">
     <!-- <script type="text/JavaScript" src="script.js"></script> -->
     <link rel="stylesheet" href="contactus_form.php">
-    <!-- <link rel="stylesheet" href="nav.html"> -->
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
         integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="

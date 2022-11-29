@@ -8,7 +8,13 @@
     <title>Navbar</title>
     <link rel="stylesheet" href="styles.css">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <!-- <link rel="stylesheet" media="screen and (max-width: 320px)" href="phone.css"> -->
     <link rel="stylesheet" media="screen and (max-width: 1170px)" href="phone.css">
+
+    <link rel="stylesheet" media = "screen and (min-width: 320px) and (max-width: 786px)" href="smallphn.css">
+
+    <!-- <link rel="stylesheet" media="screen and (min-width: 448px) and (max-width: 1170px)" href="phone.css"> -->
+    <link rel="stylesheet" media = "screen and (min-width: 320px) and (max-width: 447px)" href="smallphn.css">
 </head>
 <body>
      <!-- <div class="hero"> -->

@@ -1,5 +1,4 @@
 .hero {
-    /* width: 92%; */
     height: 100vh;
 }
 
@@ -18,10 +17,7 @@ nav {
     transition: all 0.5s ease;
     display: flex;
     width: 100%;
-    /* margin-bottom: 20px; */
     padding: 8px 49px;
-    /* padding-top: 5px; */
-    /* padding-left: 131px; */
     align-items: center;
     justify-content: space-between;
 }
@@ -39,8 +35,6 @@ nav ul li {
 }
 
 .detail {
-    /* margin-left: 4%;
-    margin-top: 4%; */
     padding-top: 149px;
     padding-left: 0px;
 }
@@ -54,23 +48,15 @@ nav ul li {
 
 .detail p {
     color: #555;
-    /* line-height: 22px; */
     text-align: center;
     font-size: 20px;
 }
 
 .detail a {
-    /* font-size: 11px;
-    padding: 5px 9px;
-    margin: 0px 0px; */
-
     margin-left: 165px;
     margin-top: 16px;
     margin-bottom: 11px;
-
     font-size: 12px;
-    /* padding: 6px 45px; */
-    /* margin: 16px 138px; */
 }
 
 .detail h1{
@@ -98,7 +84,6 @@ nav ul li {
 
 .images img {
     height: 46%;
-    /* position: absolute; */
     left: 50%;
     bottom: 162px;
     transform: translateX(-50%);
@@ -107,7 +92,6 @@ nav ul li {
 
 .images:hover .shape {
     bottom: 200px;
-
 }
 
 .images:hover .picture {
@@ -115,7 +99,6 @@ nav ul li {
 }
 
 .social {
-    /* margin-left: 5%; */
     margin-top: 6px;
     text-align: center;
 }
@@ -132,17 +115,15 @@ nav ul li {
 }
 
 #skills {
-    /* background: url('images/img7.jpg')
-     no-repeat center center/cover; */
-    /* padding-top: 144px; */
-    /* margin-bottom: 50px; */
     padding-bottom: 110px;
-    /* padding-bottom: 322px; */
+}
+
+.desig{
+    padding-left: 9px;
 }
 
 
 .portfolio {
-    /* margin-top: 50px; */
     margin-bottom: 50px;
     background-color: #eff4fd;
 }
@@ -153,7 +134,6 @@ nav ul li {
 }
 
 #internshipimg {
-    /* padding-left: 273px; */
     padding-left: 0px;
     margin-top: 25px;
 }
@@ -168,7 +148,6 @@ nav ul li {
     position: relative;
     overflow: hidden;
     margin-left: 57px;
-    /* margin-top: 10px; */
     padding-bottom: 40px;
 }
 
@@ -184,16 +163,13 @@ nav ul li {
 }
 .more_certificate a:hover{
     color: red;
-
 }
 
 
 #project{
-    /* margin-bottom: 50px; */
     padding-bottom: 50px;
     background-color: #fffaf7;
-    image-resolution: 10%;
-    
+    image-resolution: 10%;   
 }
 
 .projectdetail{
@@ -223,41 +199,22 @@ nav ul li {
 }
 
 #imagessss{
-    /* padding-left: 80px; */
     margin: 26px 0px;
-    /* justify-content: cent    er; */
-    /* align-items: center; */
     text-align: center;
 }
 
 #imagessss a:hover{
-    color: #0800ff;
-    
+    color: #0800ff; 
 }
 
 
 
 #contact {
     height: 150%;
-    /* background: url('images/img6.jpg') no-repeat center center/cover; */
-    /* margin-top: 22px; */
     padding-bottom: 223px;
 }
 
-/* #contact::before { */
-    /* content: ""; */
-    /* position: absolute; */
-    /* width: 100%; */
-    /* height: 100%; */
-    /* z-index: -1; */
-    /* opacity: 0.7; */
-    /* background: url('images/img6.jpg') no-repeat center center/cover; */
-/* } */
-
 #contact-box {
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
     padding-bottom: 8px;
     padding-top: 15px;
 }
@@ -272,7 +229,6 @@ nav ul li {
 
 #contact-box form {
     width: 76%;
-    /* height: 1%; */
 }
 
 #contact-box label {
@@ -285,10 +241,6 @@ nav ul li {
     font-size: 15px;
     margin-top: 41px;
     margin-left: 101px;
-    /* margin: 0px; */
-    /* border-radius: 6px; */
-    /* cursor: pointer; */
-    /* padding: 3px 20px; */
 }
 
 
@@ -296,8 +248,6 @@ nav ul li {
 footer {
     padding: 9px 9px;
     margin-top: 20px;
-    /* margin-bottom: -29px; */
-    /* padding: 0px 7px; */
 }
 
 
@@ -314,11 +264,7 @@ footer {
 }
 #sc1 {
     font-size: 15px;
-    /* padding-right: 50px; */
-    /* margin-right: 100px; */
-    /* text-align: center; */
     display: block;
-    /* padding-bottom: 5px; */
 }
 
 .social{
@@ -327,32 +273,11 @@ padding: 0px 0px;
 }
 
 .social1 a {
-    /* display: contents; */
     font-size: 10px;
 }
 
 #directcontact{
-    /* padding-left: 1100px; */
-    /* padding-top: 5px; */
-    /* display: inline-flex; */
-    /* margin: 10px 10px; */
     text-align: right;
 }
 
 
-
-.top {
-    color: rgb(255, 255, 255);
-    background: rgba(0, 0, 0, 0.633);
-    border-radius: 40px;
-    /* margin-left: 1476px; */
-    /* justify-content: right; */
-    padding-right: 10px;
-    /* text-align: right; */
-    /* align-items: right; */
-    font-size: 10px;
-    position: sticky;
-    bottom: 6px;
-    
- 
-}
