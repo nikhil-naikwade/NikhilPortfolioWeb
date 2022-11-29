@@ -30,8 +30,12 @@
                 <img src="certificates/Java Udemy Certificate.jpg" alt="">
                 <img src="certificates/webb.jpg" alt="">
                 <img src="certificates/php.jpg" alt="">
-                <img src="certificates/CE.png" alt="">
                 <img src="certificates/TCSiON .png" alt="">
+                <img src="certificates/Cpp.png" alt="">
+                <img src="certificates/Linux.png" alt="">
+                <img src="certificates/Python.jpg" alt="">
+                
+                <img src="certificates/CE.png" alt="">
                 <img src="certificates/AdvCpp.png" alt="">
                 <img src="certificates/C.png" alt="">
                 <img src="certificates/image001.jpg" alt="">

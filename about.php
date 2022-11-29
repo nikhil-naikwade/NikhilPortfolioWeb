@@ -7,7 +7,10 @@
     <title>About @Nikhil Naikwade's Portfolio Website</title>
     <link rel="shortcut icon" type="emoji" href="images/logo1.png" />
     <link rel="stylesheet" href="styles.css">
+    <!-- <link rel="stylesheet" media="screen and (max-width: 1170px)" href="phone.css"> -->
+
     <link rel="stylesheet" media="screen and (max-width: 1170px)" href="phone.css">
+    <link rel="stylesheet" media = "screen and (min-width: 320px) and (max-width: 786px)" href="smallphn.css">
 </head>
 <body>
     <?php
