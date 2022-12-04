@@ -15,8 +15,6 @@
       }
       .alert{
         text-align: center;
-        /* margin-top: 211px; */
-        /* padding: 111px 111px; */
       }
     </style>
   </head>
